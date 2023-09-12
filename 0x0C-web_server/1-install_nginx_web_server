@@ -1,7 +1,4 @@
-# #!/usr/bin/env bash
-# # The installed server listens to port 80 (HTTP)
-# # And serves a default page index.html on the HTTP  GET request.
-
+#######
 #!/usr/bin/env bash
 # A script that installs nginx server on an ubuntu linux distro.
 # The installed server listens to port 80 (HTTP) for connection
